@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lemon Herb Roasted Chicken",
+    "imageUrl": "https://i.ibb.co/ypHV5YX/lemon-herb-roasted-chicken-1280-1.jpg",
+    "category": "Salad",
+    "price": 19.99,
+    "description": "Tender roasted chicken infused with a zesty blend of lemon and herbs. Served with a side of roasted vegetables.",
+    "shortDescription": "Zesty roasted chicken with herbs, served with veggies.",
+    "quantity": 5,
+    "madeBy": "Chef Alice",
+    "count": 48,
+    "foodOrigin": "International"
+  },
+  {
+    "name": "Quinoa and Avocado Salad",
+    "imageUrl": "https://i.ibb.co/dtVSyML/Love-One-Today-Avocado-Recipes-Featured-avocado-kale-and-quinoa-salad.jpg",
+    "category": "Salad",
+    "price": 8.99,
+    "description": "A refreshing salad featuring fluffy quinoa, ripe avocados, cherry tomatoes, and a tangy citrus dressing.",
+    "shortDescription": "Quinoa and avocado salad with citrus dressing.",
+    "quantity": 3,
+    "madeBy": "Chef Benjamin",
+    "count": 22,
+    "foodOrigin": "Mediterranean"
+  },
+  {
+    "name": "Shrimp Scampi Linguine",
+    "imageUrl": "https://i.ibb.co/sHffHN7/shrimp-scampi-pasta-recipe-1.jpg",
+    "category": "Pasta",
+    "price": 15.49,
+    "description": "Delicious linguine pasta tossed in a garlic-infused olive oil with succulent shrimp, cherry tomatoes, and fresh parsley.",
+    "shortDescription": "Shrimp scampi linguine with garlic and olive oil.",
+    "quantity": 8,
+    "madeBy": "Chef Carlos",
+    "count": 76,
+    "foodOrigin": "Italian"
+  },
+  {
+    "name": "Berry Burst Smoothie",
+    "imageUrl": "https://i.ibb.co/qxb1pkq/berry-burst-smoothie-table-with-kitchen-background-photo-realistic-4k-resolution-ai-generated-29654.jpg",
+    "category": "Beverage",
+    "price": 6.49,
+    "description": "A vibrant and healthy smoothie bursting with the goodness of mixed berries, banana, and Greek yogurt.",
+    "shortDescription": "Healthy smoothie with mixed berries and Greek yogurt.",
+    "quantity": 2,
+    "madeBy": "Chef Danielle",
+    "count": 94,
+    "foodOrigin": "American"
+  },
+  {
+    "name": "Vegetarian Pad Thai",
+    "imageUrl": "https://i.ibb.co/9rT1DCy/10-minute.jpg",
+    "category": "Cuisine",
+    "price": 12.99,
+    "description": "Classic Thai stir-fried noodles with tofu, bean sprouts, peanuts, and a flavorful tamarind sauce.",
+    "shortDescription": "Vegetarian Pad Thai with tofu and peanuts.",
+    "quantity": 10,
+    "madeBy": "Chef Ethan",
+    "count": 33,
+    "foodOrigin": "Thai"
+  },
+  {
+    "name": "Dark Chocolate Fondue",
+    "imageUrl": "https://i.ibb.co/dcJbSfV/DSC-0295.jpg",
+    "category": "Dessert",
+    "price": 10.99,
+    "description": "Indulge in a decadent dessert experience with a rich and velvety dark chocolate fondue served with fresh fruits and marshmallows.",
+    "shortDescription": "Decadent dark chocolate fondue with fresh fruits.",
+    "quantity": 7,
+    "madeBy": "Chef Fiona",
+    "count": 61,
+    "foodOrigin": "Swiss"
+  }
+]
